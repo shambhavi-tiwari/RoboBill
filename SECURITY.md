@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Make sure that Gemini Pro Vision as used in this model is applicable for Python models above 3.9 ONLY.
+Please know that Gemini Pro Vision as used in this project is applicable for Python models above 3.9 ONLY.
 
 | Version | Supported          |
 | ------- | ------------------ |
